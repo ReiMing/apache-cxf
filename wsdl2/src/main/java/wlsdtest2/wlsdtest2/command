@@ -1,0 +1,1 @@
+ .\wsdl2java -d F:\Project\wsdl2\src\main\java\wlsdtest2 -p wlsdtest2 http://www.webxml.com.cn/WebServices/TranslatorWebService.asmx?wsdl
