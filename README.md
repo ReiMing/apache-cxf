@@ -1,1 +1,1 @@
-"# apache-cxf" 
+sample for swagger2
